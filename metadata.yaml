@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Wilhelmine_de_Bayreuth
     - http://en.wikipedia.org/wiki/Princess_Wilhelmine_of_Prussia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27808#M-moires-de-Fr-d-rique-Sophie-Wilhelmine-de-Prusse-margrave-de-Bareith.-Tome-1
 gutenberg_bookshelf:
 - FR Femmes
 - FR Histoire
